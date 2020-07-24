@@ -2,7 +2,8 @@
 <p>
   <img src="https://github.com/thanasisKirmizis/thanasisKirmizis/blob/master/cover.png"/>
 </p>
-___
+
+---
 
 ## Description of myself_v23
 
