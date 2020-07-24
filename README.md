@@ -1,13 +1,11 @@
 ### Hello there 👋
 <p>
-  <img align = "left" src="https://github.com/thanasisKirmizis/thanasisKirmizis/blob/master/cover.png"/>
+  <img src="https://github.com/thanasisKirmizis/thanasisKirmizis/blob/master/cover.png"/>
 </p>
-
-<br/><br/>
 
 ---
 
-<br/><br/>
+<br/>
 
 ## Description of myself_v23
 
@@ -24,6 +22,10 @@ I am an Electrical & Computer Engineer student at AUTh (Greece), with the vision
 Ping me on:
 
 > 🔗 LinkedIn: https://www.linkedin.com/in/thanasis-kirmizis/
+
 > 🐥 Twitter: https://twitter.com/thankir28
+
 > 📘 Facebook: https://www.facebook.com/thanasis.kirmizis
+
 > 📸 Instagram: https://www.instagram.com/thanasis_kirm/
+
