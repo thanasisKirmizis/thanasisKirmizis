@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-<img align = "left" src="https://github.com/thanasisKirmizis/thanasisKirmizis/blob/master/profpic.png" width="215" height="200" />
+<img align = "left" src="https://github.com/thanasisKirmizis/thanasisKirmizis/blob/master/cover.png"/>
 
 <br/><br/>
 
@@ -16,4 +16,9 @@ I am an Electrical & Computer Engineer student at AUTh (Greece), with the vision
 
 ## How to connect
 
+Ping me on:
 
+> 🔗 LinkedIn: https://www.linkedin.com/in/thanasis-kirmizis/
+> 🐥 Twitter: https://twitter.com/thankir28
+> 📘 Facebook: https://www.facebook.com/thanasis.kirmizis
+> 📸 Instagram: https://www.instagram.com/thanasis_kirm/
