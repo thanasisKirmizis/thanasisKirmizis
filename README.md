@@ -1,7 +1,7 @@
 ### Hello there 👋
 ### Nice of you to stop by!
 
-![prof pic](https://drive.google.com/file/d/1Kg63JKMZYKDyM70TwN_OgCvi_jyzLQzB/view?usp=sharing) 
+![prof pic](https://drive.google.com/open?id=1Kg63JKMZYKDyM70TwN_OgCvi_jyzLQzB)
 
 ## Description of myself_v23
 
@@ -11,7 +11,7 @@ I am an Electrical & Computer Engineer student at AUTh (Greece), with the vision
 
 🔭 Working on my thesis on "Detection of smoking events from inertial data collected in free-living environments with the use of a smartwatch". 
 
-🎯 Also spending my free time trying to convinve myself to develop personal side-projects!
+🎯 Also spending my free time trying to convince myself to develop personal side-projects!
 
 ## How to connect
 
