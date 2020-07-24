@@ -1,10 +1,15 @@
-<p align="left">
+<p>
   <img align = "left" src="https://github.com/thanasisKirmizis/thanasisKirmizis/blob/master/profpic.png" width="215" height="200" />
 </p>
 
 
+
+
+
 ### Hello there 👋
 ### Nice of you to stop by!
+
+
 
 
 
