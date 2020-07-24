@@ -1,6 +1,11 @@
 ### Hello there 👋
+<p>
+  <img align = "left" src="https://github.com/thanasisKirmizis/thanasisKirmizis/blob/master/cover.png"/>
+</p>
 
-<img align = "left" src="https://github.com/thanasisKirmizis/thanasisKirmizis/blob/master/cover.png"/>
+<br/><br/>
+
+---
 
 <br/><br/>
 
