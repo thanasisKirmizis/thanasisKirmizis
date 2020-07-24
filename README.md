@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hello there 👋
+### Nice of you to stop by!
 
-<!--
-**thanasisKirmizis/thanasisKirmizis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![prof pic](https://drive.google.com/file/d/1Kg63JKMZYKDyM70TwN_OgCvi_jyzLQzB/view?usp=sharing) 
 
-Here are some ideas to get you started:
+## Description of myself_v23
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am an Electrical & Computer Engineer student at AUTh (Greece), with the vision of working at software engineering (or similar) positions at accomplished companies 💯. My capabilities and passion with IT have been there since childhood 💻. I believe my greatest powers to be complex problem analyzing and step-by-step solving using all the engineering knowledge I have amassed through the years ⚡. Currently striving to leverage my software development skills and continue to collect every piece of knowledge I can to become a better engineer 🌱.
+
+## Current patch notes
+
+🔭 Working on my thesis on "Detection of smoking events from inertial data collected in free-living environments with the use of a smartwatch". 
+
+🎯 Also spending my free time trying to convinve myself to develop personal side-projects!
+
+## How to connect
+
+
