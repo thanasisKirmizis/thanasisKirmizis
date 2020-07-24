@@ -1,7 +1,9 @@
 ### Hello there 👋
 ### Nice of you to stop by!
 
-<img src="https://github.com/thanasisKirmizis/thanasisKirmizis/blob/master/profpic.png" width="322" height="300" />
+<p align="right">
+  <img src="https://github.com/thanasisKirmizis/thanasisKirmizis/blob/master/profpic.png" width="215" height="200" />
+ </p>
 
 ## Description of myself_v23
 
