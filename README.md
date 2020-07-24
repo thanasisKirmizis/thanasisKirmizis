@@ -1,7 +1,7 @@
 ### Hello there 👋
 ### Nice of you to stop by!
 
-![prof pic](https://drive.google.com/open?id=1Kg63JKMZYKDyM70TwN_OgCvi_jyzLQzB)
+![profpic] (https://github.com/thanasisKirmizis/thanasisKirmizis/blob/master/profpic.jpg)
 
 ## Description of myself_v23
 
