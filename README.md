@@ -11,11 +11,9 @@ I am an Electrical & Computer Engineering graduate from AUTh (Greece), with the 
 
 ## Current patch notes
 
-💂‍♂ Fulfilling my military service obligations until 18/11/2021.
+🔜 Eagerly awaiting to start on my first job as Software Engineer!
 
-🔭 Working on the publication and presentation of my first paper for the 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC). Based on my diploma thesis, the paper examines the feasibility of objectively measuring smoking behavior using inertial sensors found in common smartwatches.
-
-🎯 Also spending my free time trying to convince myself to develop personal side-projects!
+🎯 Also spending my free time trying to convince myself to develop personal soft-skills!
 
 ## How to connect
 
