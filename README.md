@@ -5,15 +5,9 @@
 
 ---
 
-## Description of myself_v24
+## Description of myself_v27
 
-I am an Electrical & Computer Engineering graduate from AUTh (Greece), with the vision of working at software engineering (or similar) positions at accomplished companies 💯. My capabilities and passion with IT have been there since childhood 💻. I believe my greatest powers to be complex problem analyzing and step-by-step solving using all the engineering knowledge I have amassed through the years ⚡. Currently striving to leverage my software development skills and continue to collect every piece of knowledge I can to become a better engineer 🌱.
-
-## Current patch notes
-
-🔜 Eagerly awaiting to start on my first job as Software Engineer!
-
-🎯 Also spending my free time trying to convince myself to develop personal soft-skills!
+Electrical & Computer Engineer graduate with over two years of professional experience in a software engineering role, specializing in full-stack web application development 💯. My early fascination with technology has seamlessly transitioned into a career characterized by a strong aptitude for methodical problem-solving and meticulous solution development 💻. In my current software engineering capacity, I leverage my comprehensive engineering knowledge to craft robust and innovative solutions, showcasing a commitment to precision and continuous improvement in my work ⚡️. Eager to advance my proficiency in software development and acquire further knowledge, I am dedicated to evolving into an even more adept and versatile engineer 🚀.
 
 ## How to connect
 
